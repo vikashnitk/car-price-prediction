@@ -17,3 +17,10 @@ sns==0.1
 threadpoolctl==2.1.0
 wincertstore==0.2
 gunicorn
+Flask==1.1.2
+requests==2.24.0
+urllib3==1.25.9
+werkzeug==1.0.1
+jinja2==2.11.2
+chardet==3.0.4
+MarkupSafe==1.1.1
